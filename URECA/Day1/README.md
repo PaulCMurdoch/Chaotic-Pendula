@@ -1,2 +1,0 @@
-# URECA Day One
-
